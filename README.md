@@ -7,3 +7,8 @@ Credit scores are a crucial factor in determining an individual’s financial he
 
 As of right now, I have only learned classification models with binary classification. The credit scores are classified into Poor, Standard, and Good on our dataset. Because of this, I assigned random credit ratings to those with Poor credit scores (ratings from 300-629), those with Standard (ratings from 630-689), and Good (ratings from 690-719) in order to create regression models and pursue a continuous response.
 
+## Code
+Please find the code for my project here: <https://github.com/kayleemo/ds2-final/blob/main/ds2_final_code.ipynb>
+
+## Full Report and Analysis
+Please find my full completed report with analysis and insights on my project here: <https://github.com/kayleemo/ds2-final/blob/main/ds2_final_report.ipynb>
